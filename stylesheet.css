@@ -1,0 +1,14 @@
+body, div, my-canvas {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  display: block;
+  border-color: red;
+}
+
+.bg {
+	width: 100%;
+	display:block;
+	z-index: 0;
+}
+
