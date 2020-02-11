@@ -7,7 +7,6 @@ var gasTotal = 24;
 
 while (gasNumber < gasTotal) {
 	gasNumber++;
-	// console.log(gasNumber);
 	gas.push("assets/img/gas" + gasNumber + ".jpg")
 }
 
